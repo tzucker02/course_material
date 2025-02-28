@@ -65,7 +65,7 @@ Resources
 | [Curve Fitting with Matplotlib](https://www.mathworks.com/videos/what-is-curve-fitting-fitting-models-to-data-made-easy-with-matlab-1712740390493.html?) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  Mathworks |  Dan Nicolau |
 | [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Khan Academy |  Dan Nicolau | 
 | [A place to learn and practice](https://www.w3schools.com/) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | w3schools | Anthony Nguyen |
-| [Python Data Types explained](https://www.datacamp.com/blog/python-data-types) | 2025-02-27 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |  |
+| [Python Data Types explained](https://www.datacamp.com/blog/python-data-types) | 2025-02-27 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Annick Uwineza |
 <!--
 | []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
 -->
