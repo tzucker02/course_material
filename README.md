@@ -41,7 +41,6 @@ Resources
 | [Annotating Plots from MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | [Support Vector Machines](https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |   |
 | [12 Important Performance Metrics that every data scientist must know](https://medium.com/@pingsubhak/12-important-performance-metrics-that-every-data-scientist-must-know-110f59b2e305) | 2025-02-27 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  from medium.com |
-| [Broadcasting](https://www.youtube.com/watch?v=oG1t3qlzq14) | 2025-02-27 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  |
 
 # AI Resources and Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
@@ -98,6 +97,7 @@ Resources
 | [Is Data Science Dead?](https://medium.com/low-code-for-advanced-data-science/is-data-science-dead-a5d4421b4b1f) | 2025-02-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Thomas Zucker-Scharff |
 | [Matplotlib video tutorial](https://www.youtube.com/watch?v=myprW6XdhLc) | 2025-02-25 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | runtime 1:09:29 | Mihir Jain |
 | [10 key Machine Learning Mistakes](https://www.infoworld.com/article/3812589/10-machine-learning-mistakes-and-how-to-avoid-them.html) | 2025-02-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Usha Priya Krishnasamy |
+| [Broadcasting](https://www.youtube.com/watch?v=oG1t3qlzq14) | 2025-02-27 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  |  Snehansh Pabba |
 <!--
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
