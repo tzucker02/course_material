@@ -43,6 +43,7 @@ Resources
 | [12 Important Performance Metrics that every data scientist must know](https://medium.com/@pingsubhak/12-important-performance-metrics-that-every-data-scientist-must-know-110f59b2e305) | 2025-02-27 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  from medium.com |
 | [Numpy I/O](https://numpy.org/doc/stable/reference/routines.io.html) | 2025-02-28 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
 | [Numpy ndarray structure](https://numpy.org/doc/stable/reference/arrays.ndarray.html#internal-memory-layout-of-an-ndarray) | 2025-030-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
+| [NumPy Copies and Views](https://numpy.org/doc/stable/user/basics.copies.html) | 2025-03-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
 
 # AI Resources and Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
