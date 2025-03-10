@@ -47,7 +47,7 @@ Resources
 | [NumPy Copies and Views](https://numpy.org/doc/stable/user/basics.copies.html) | 2025-03-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
 | [The basics of NumPy arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html) | 2025-03-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
 | [Indexing on ndarrays](https://numpy.org/doc/stable/user/basics.indexing.html) | 2025-03-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
-| [NumPy linear Algebra sub package](https://numpy.org/doc/stable/reference/routines.linalg.html) | 2025-03-09 | | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
+| [NumPy linear Algebra sub package](https://numpy.org/doc/stable/reference/routines.linalg.html) | 2025-03-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | Numpy documentation |
 
 # AI Resources and Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
