@@ -110,9 +110,9 @@ Resources
 | [Is Data Science Dead?](https://medium.com/low-code-for-advanced-data-science/is-data-science-dead-a5d4421b4b1f) | 2025-02-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Thomas Zucker-Scharff |
 | [Matplotlib video tutorial](https://www.youtube.com/watch?v=myprW6XdhLc) | 2025-02-25 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | runtime 1:09:29 | Mihir Jain |
 | [10 key Machine Learning Mistakes](https://www.infoworld.com/article/3812589/10-machine-learning-mistakes-and-how-to-avoid-them.html) | 2025-02-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Usha Priya Krishnasamy |
-| [Broadcasting](https://www.youtube.com/watch?v=oG1t3qlzq14) | 2025-02-27 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  |  Snehansh Pabba |
+| [Broadcasting](https://www.youtube.com/watch?v=oG1t3qlzq14) | 2025-02-27 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | runtime: 13:05 |  Snehansh Pabba |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| [ ]( | 2025-03-11 |  |  |  |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
