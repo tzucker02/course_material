@@ -16,7 +16,7 @@ Resources
 - [ Other Links](#other-links)
 - [ ***Go to the Dataset Sources Page***](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md)
 - [ Data Science Blogs](#data-science-blogs)
-- [ ***Go to Files for DX699 Milestone 1***](https://github.com/tzucker02/dx699_milestone1/blob/main/README.md)
+<!-- - [ ***Go to Files for DX699 Milestone 1***](https://github.com/tzucker02/dx699_milestone1/blob/main/README.md) -->
 
 # Full text of OMDS Readings
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
