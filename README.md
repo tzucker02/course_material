@@ -86,6 +86,25 @@ Resources
 | []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
 -->
 
+# Data Ethics Readings
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+(libraries and more)
+| File Link | Date Added | Type | Description | Person who Provided link |
+|---|---|---|---|----|
+| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+<!--
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+-->
 # Data Science Blogs
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | Blog Link | Date Added | Description | Person who Provided link |
