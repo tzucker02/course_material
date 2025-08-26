@@ -91,19 +91,19 @@ Resources
 (libraries and more)
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
-| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
-| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
-| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
-| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
-| []() | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Right to be forgotten or the duty to be remembered](https://github.com/tzucker02/course_material/blob/main/Ursic-politiwoops.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Philosophy within Data Science Ethics Courses](https://github.com/tzucker02/course_material/blob/main/Philosophy%20within%20Data%20Science%20Ethics%20Courses.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Perspectives on Big Data](https://github.com/tzucker02/course_material/blob/main/Perspectives-on-Big-Data.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Intro to Data Ethics](https://github.com/tzucker02/course_material/blob/main/IntroToDataEthics.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Patreon Case Study](https://github.com/tzucker02/course_material/blob/main/Patreon-Case-Study.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [What is Data Ethics](https://github.com/tzucker02/course_material/blob/main/floridi-taddeo-what-is-data-ethics.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Ethical Challenges Posed by Big Data](https://github.com/tzucker02/course_material/blob/main/icns_17_10-12_24-30.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Good Practice Principles for Data Ethics in the Public Sector](https://github.com/tzucker02/course_material/blob/main/caa35b76-en.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [Common Rule Letter from 2015](https://github.com/tzucker02/course_material/blob/main/BDES-Common-Rule-Letter-2015.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
 <!--
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
 -->
 # Data Science Blogs
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
