@@ -116,8 +116,8 @@ Resources
 | [Broadcasting](https://www.youtube.com/watch?v=oG1t3qlzq14) | 2025-02-27 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | runtime: 13:05 |  Snehansh Pabba |
 | [Introduction to Neural Networks](https://medium.com/data-science/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc) | 2025-03-11 <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
 | [A gentle introduction to Neural Networks: Part 1](https://medium.com/data-science/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
+| [Stanford ENGR108: Introduction to Applied Linear Algebra- Runtime 20:01](https://www.youtube.com/watch?v=lWEJPWFIgtw&t=733s) | 2025-08 |  <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | |
+| [Lec 1 | MIT 18.06 Linear Algebra, Spring 2005 - of series of 35 - Runtime 39:48](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D) | 2025-08 |  <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
