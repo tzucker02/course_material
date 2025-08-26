@@ -14,7 +14,7 @@ Resources
 - [ ***Go to the Python Cheatsheets Page***](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
-- [ Data Ethics Readings](#data-ethics)
+- [ Data Ethics Readings](#data-ethics-readings)
 - [ ***Go to the Dataset Sources Page***](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md)
 - [ Data Science Blogs](#data-science-blogs)
 <!-- - [ ***Go to Files for DX699 Milestone 1***](https://github.com/tzucker02/dx699_milestone1/blob/main/README.md) -->
@@ -89,7 +89,6 @@ Resources
 
 # Data Ethics Readings
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-(libraries and more)
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
 | [Right to be forgotten or the duty to be remembered](https://github.com/tzucker02/course_material/blob/main/Ursic-politiwoops.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
