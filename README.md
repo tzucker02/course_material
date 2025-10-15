@@ -9,6 +9,7 @@ Here, I have tried to list the various course materials.
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
+- [ Miscellaneous Readings](#miscellaneous-readings)
 - [ ***Go to the page with specific OMDS course resources by week***](https://github.com/tzucker02/Course_content_by_week/blob/main/README.md)
 - [ AI resources & Links](#ai-resources-and-links)
 - [ ***Go to the Python Cheatsheets Page***](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
@@ -32,6 +33,13 @@ Resources
 | [Applied Linear Algebra](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/introduction%20to%20applied%20linear%20algebra.pdf) |  2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  | Linear Algebra text |
 | [Mathematics and Machine Learning](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/mathematics%20for%20machine%20learning.pdf) | 2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
 | [Patterns, Predictions, and Actions](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/patterns%20predictions%20and%20actions.pdf) |2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
+
+# Miscellaneous Readings 
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
+| File Link | Upload Date | Type | File Description |
+|---|---|---|---|
+| [Schaum's Outline of Linear Algebra - 5th Edition](https://github.com/tzucker02/course_material/blob/main/Schaums%20outline%20of%20linear%20algebra%20-%205th%20edition.pdf) | 2025-10 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
+|[Cybersecurity for Dummies Ebook](https://github.com/tzucker02/course_material/blob/main/Cybersecurity%20for%20dummies.pdf) | 2025-10 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
 
 # Other Readings
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
