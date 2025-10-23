@@ -9,7 +9,7 @@ Here, I have tried to list the various course materials.
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
-- [ Miscellaneous Readings](#miscellaneous-readings)
+- [ Miscellaneous Readings/Python O'Reilly Books](#miscellaneous-readings)
 - [ ***Go to the page with specific OMDS course resources by week***](https://github.com/tzucker02/Course_content_by_week/blob/main/README.md)
 - [ AI resources & Links](#ai-resources-and-links)
 - [ ***Go to the Python Cheatsheets Page***](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
