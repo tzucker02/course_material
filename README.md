@@ -44,9 +44,10 @@ Resources
 |---|---|---|---|
 | [Schaum's Outline of Linear Algebra - 5th Edition](https://github.com/tzucker02/course_material/blob/main/Schaums%20outline%20of%20linear%20algebra%20-%205th%20edition.pdf) | 2025-10 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
 |[Cybersecurity for Dummies Ebook](https://github.com/tzucker02/course_material/blob/main/Cybersecurity%20for%20dummies.pdf) | 2025-10 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
-| O'Reilly Books on Python - [Introducing Python: Modern Computing in Simple Packages 3rd Edition](https://www.amazon.com/dp/1098174402?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 |  |  O'Reilly Books on Amazon |
-| O'Reilly Books on Python - [Fluent Python: Clear, Concise, and Effective Programming 2nd Edition](https://www.amazon.com/dp/1492056359?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 |  | O'Reilly Books on Amazon  |
-| O'Reilly Books on Python - [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/dp/109810403X?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 |  |  O'Reilly Books on Amazon |
+| NOTE: I recommend reading the O'Reilly books on Python in the following order ||||
+| O'Reilly Books on Python | [Introducing Python: Modern Computing in Simple Packages 3rd Edition](https://www.amazon.com/dp/1098174402?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 |  O'Reilly Books on Amazon |
+| | [Fluent Python: Clear, Concise, and Effective Programming 2nd Edition](https://www.amazon.com/dp/1492056359?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 | O'Reilly Books on Amazon  |
+| | [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Edition](https://www.amazon.com/dp/109810403X?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2025-10 |  O'Reilly Books on Amazon |
 
 # Other Readings
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
