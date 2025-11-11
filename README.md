@@ -119,8 +119,8 @@ Resources
 | [BMC Medical Ethics: What should stay and what should be reformed](https://github.com/tzucker02/course_material/blob/main/BMC%20Medical%20Ethics%20-%20What%20should%20stay%20and%20go.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
 | [PLOS One article Scoping review of Medical Ethics](https://github.com/tzucker02/course_material/blob/main/Considerations%20for%20ethics%20review%20of%20Big%20Data%20health%20research-%20a%20scoping%20review.%20PLoS%20One.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
 | [AI overview of considerations on Medical Ethics](https://github.com/tzucker02/course_material/blob/main/Considerations%20for%20ethics%20review%20of%20Big%20Data%20health%20research_%20a%20scoping%20-%20AI%20overview.pdf) | 2025-08 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Thomas Zucker-Scharff |
+| [mypdf](https://github.com/tzucker02/ethics_project/blob/main/ethics_project.pdf) | 2025-11 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
