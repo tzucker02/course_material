@@ -158,6 +158,9 @@ Resources
 | [A gentle introduction to Neural Networks: Part 1](https://medium.com/data-science/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
 | [Stanford ENGR108: Introduction to Applied Linear Algebra](https://www.youtube.com/watch?v=lWEJPWFIgtw&t=733s) | 2025-08 |  <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | Runtime 20:01 | |
 | [Lec 1  MIT 18.06 Linear Algebra, Spring 2005 - of series of 35](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D) | 2025-08 |  <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> | Runtime 39:48 | |
+| [3Blue1Brown Youtube channel for Linear Algebra](https://www.youtube.com/c/3blue1brown) | 2025 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Thomas Zucker-Scharff |
 <!--
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
