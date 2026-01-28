@@ -39,7 +39,7 @@ Resources
 | Storytelling with Data | [Wiley - $42](https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253) | 2025-11 | text for DX699 Part 2 |
 | Storytelling with Data | [O'Reilly - not specified](https://www.oreilly.com/library/view/storytelling-with-data/9781119002253/) | 2025-11 | text for DX699 Part 2 |
 |   | | | |
-| Hands-On Machine Learning | || Note that this book can be downloaded from the BU library in 100 page or less sections |
+| Hands-On Machine Learning | | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" > | Note that this book can be downloaded from the BU library in 100 page or less sections |
 | Hands-On Machine Learning | [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/) | 2026-01 | Text for DX603 |
 | Hands-On Machine Learning | [O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | 2026-01 | Text for DX603 |
 
