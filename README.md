@@ -37,7 +37,7 @@ Resources
 | Storytelling with Data | [Book Website - excel spreadsheets](https://www.storytellingwithdata.com/book/downloads) | 2025-11 | text for DX699 Part 2 |
 | Storytelling with Data | [Wiley - $42](https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253) | 2025-11 | text for DX699 Part 2 |
 | Storytelling with Data | [O'Reilly - not specified](https://www.oreilly.com/library/view/storytelling-with-data/9781119002253/) | 2025-11 | text for DX699 Part 2 |
-| Hands-On Machine Learning | Note that this book can be downloaded from the BU library in 100 page or less sections |||
+| Hands-On Machine Learning | || Note that this book can be downloaded from the BU library in 100 page or less sections |
 | Hands-On Machine Learning | [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/) | 2026-01 | Text for DX603 |
 | Hands-On Machine Learning | [O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | 2026-01 | Text for DX603 |
 
