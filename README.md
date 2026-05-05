@@ -42,7 +42,7 @@ Resources
 | Hands-On Machine Learning | | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" > | Note that this book can be downloaded from the BU library in 100 page or less sections |
 | Hands-On Machine Learning | [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/) | 2026-01 | Text for DX603 |
 | Hands-On Machine Learning | [O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | 2026-01 | Text for DX603 |
-|  [Introduction to Applied Linear Algebra]() |2026-05 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
+|  [Introduction to Applied Linear Algebra](https://github.com/tzucker02/course_material/raw/main/introduction%20to%20applied%20linear%20algebra.pdf) |2026-05 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 
 # Miscellaneous Readings 
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
