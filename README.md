@@ -92,6 +92,19 @@ Resources
 | [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Kris Mehra |
 | [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | Kris Mehra |
 | [5 Trends in AI and Data Science in 2025](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2025/) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | MITSloan Management Review | Michael Cockrell |
+|||||
+| DX604 resources | | | |
+| Arun Ram help files ||||
+| [Auditing Pipeline Run Errors in Azure Data Factory](https://app.tango.us/app/workflow/HW1c-Auditing-Pipeline-Run-Errors-in-Azure-Data-Factory-1d258e3ccf3f4dc2a1dc7a3c3396b997) | |||
+| [Run SQL Query in Azure Portal](https://app.tango.us/app/workflow/HW1c-Run-SQL-Query-in-Azure-Portal-024e2566b3624191b6d47e3fc73628db) ||||
+| [Pipeline to write NHTSA text file to SQL database](https://app.tango.us/app/workflow/HW1c-ADF-Pipeline-to-write-NHTSA-text-file-to-SQL-database-05bfe75b5bcd44feb7f47e23587382d4) ||||
+| [Create Azure SQL Dataset in Data Factory](https://app.tango.us/app/workflow/Create-Azure-SQL-Dataset-in-Data-Factory-d9e2f26e89ff476f884930aae1cd6cb6) ||||
+| [HW3a](https://app.tango.us/app/workflow/Mod4-HW3a-0c498da7a3cd42e19b44b51d0ab41e8f) ||||
+| Official Github from DX604 Fall 2026 | |||
+| [Github for DX604](https://github.com/cseferlis/OMDSMod4Homework) ||||
+| Our Cloud School youtube videos by Rakesh Suryawanshi ||||
+| [Copy a Zip file and unzip using Azure Data factory](https://www.youtube.com/watch?v=lFlOTJbE5pc) ||||
+| [Unzip .zip files using Copy activity in ADF](https://www.youtube.com/watch?v=AHeuYf4Sikk) ||||
 
 # Python Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
