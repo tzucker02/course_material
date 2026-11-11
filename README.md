@@ -18,6 +18,7 @@ Resources
 - [ Data Ethics Readings](#data-ethics-readings)
 - [ ***Go to the Dataset Sources Page***](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md)
 - [ Data Science Blogs](#data-science-blogs)
+- [ DX604 resources](#dx604-resources)
 <!-- - [ ***Go to Files for DX699 Milestone 1***](https://github.com/tzucker02/dx699_milestone1/blob/main/README.md) -->
 
 # Full text of OMDS Readings
